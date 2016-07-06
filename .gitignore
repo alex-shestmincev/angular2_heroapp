@@ -2,3 +2,5 @@ node_modules/*
 npm-debug.log
 **/*.js.map
 app/**/*.js
+.idea
+typings
