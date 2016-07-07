@@ -17,5 +17,5 @@ import { ROUTER_DIRECTIVES } from '@angular/router';
   providers: [HeroService],
 })
 export class AppComponent {
-  title = 'Angualar 2 title';
+  title = 'Tour of Heroes';
 }
